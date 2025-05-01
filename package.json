@@ -1,0 +1,24 @@
+{
+  "name": "01-fundamentos-api-node",
+  "version": "1.0.0",
+  "description": "Rocketseat Formação Node.js: Fundamentos do Node.js",
+  "author": {
+    "name": "Felipe DR",
+    "email": "felipe.corp7@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felipe-dr/fundamentos-api-node"
+  },
+  "bugs": {
+    "url": "https://github.com/felipe-dr/fundamentos-api-node/issues",
+    "email": "felipe.corp7@gmail.com"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  }
+}
