@@ -32,7 +32,7 @@
 
 ## Sobre
 
-API desenvolvida em Node.js sem nenhum framework, afim de se praticar os fundamentos dessa tecnologia. Também há uma pasta relacionada a streams, demonstrando conceitos e suas aplicações.
+API desenvolvida em Node.js sem nenhum framework, afim de praticar os fundamentos dessa tecnologia. Também há uma pasta relacionada a streams, demonstrando conceitos e suas aplicações.
 
 ## Funcionalidades
 
